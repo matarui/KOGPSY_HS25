@@ -1,7 +1,7 @@
 ---
 title: "KOGPSY"
 description: |
-  Welcome to the website for *Kognitionspsychologie I* HS24 ([23263-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=284655))
+  Welcome to the website for *Kognitionspsychologie I* HS25 ([23263-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=292417))
   
   Instructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -25,24 +25,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Session information
 
-Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1. 
+Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
+Slides will be made available shortly before each session. 
 
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 01.10.2024 | Session 1: Introduction | [pdf](presentations/KOGPSY_session1.pdf) |
-| 2 | 08.10.2024 | Session 2: Intelligence | [pdf](presentations/KOGPSY_session2.pdf) |
-| 3 | 15.10.2024 | Session 3: Perception | [pdf](presentations/KOGPSY_session3.pdf)  |
-| 4 | 22.10.2024 | Session 4: Spatial cognition | [pdf](presentations/KOGPSY_session4.pdf) |
-| 5 | 29.10.2024 | Session 5: Numerical cognition | [pdf](presentations/KOGPSY_session5.pdf) |
-| 6 | 05.11.2024 | Session 6: Language | [pdf](presentations/KOGPSY_session6.pdf) |
-| 7 | 19.11.2024 | Session 7: Knowing | [pdf](presentations/KOGPSY_session7.pdf) |
-| 8 | 03.12.2024 | Session 8: Consciousness | [pdf](presentations/KOGPSY_session8.pdf) |
-| 9 | 10.12.2024 | Session 9: Applications | [pdf](presentations/KOGPSY_session9.pdf) |
-|10 | 17.12.2024 | Session 10: Wrap-up and Q&A | [pdf](presentations/KOGPSY_session10.pdf)  |
+| 1 | 23.09.2025 | Session 1: Cognitive Psychology |  |
+| 2 | 07.10.2025 | Session 2: What is intelligence? |  |
+| 3 | 14.10.2025 | Session 3: What is intelligence? (continued) |  |
+| 4 | 21.10.2025 | Session 4: Perception | |
+| 5 | 04.10.2025 | Session 5: Spatial cognition | |
+| 6 | 11.11.2025 | Session 6: Numerical cognition | |
+| 7 | 18.11.2025 | Session 7: Language | |
+| 8 | 25.11.2025 | Session 8: Knowing | |
+| 9 | 02.12.2025 | Session 9: Consciousness | |
+|10 | 09.12.2025 | Session 10: Applications | |
+|11 | 16.12.2025 | Session 11: Wrap-up and Q&A |  |
 :::
-
-*Note. Slides will be made available either shortly after each session*
 
 # What is this course about?
 
