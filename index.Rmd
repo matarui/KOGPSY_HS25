@@ -68,44 +68,44 @@ Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D
 
 Nesse, R. M. (2013). Tinbergen’s four questions, organized: A response to Bateson and Laland. Trends in Ecology & Evolution, 28(12), 681–682. http://doi.org/10.1016/j.tree.2013.10.008
 
-**Sessions 2 and 3**
+**Session 2**
 
 Kovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. Psychological Inquiry, 27(3), 151–177. http://doi.org/10.1080/1047840X.2016.1153946
 
 Barbey, A. K. (2018). Network neuroscience theory of human intelligence. Trends in Cognitive Sciences, 22(1), 8–20. http://doi.org/10.1016/j.tics.2017.10.001.
 
-**Session 4**
+**Session 3**
 
 Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Chapter 5: Sensation and Perception, Cognitive neuroscience: The biology of the mind (5th ed.). W.W. Norton & Company. 
 
-**Session 5**
+**Session 4**
 
 Burgess, N. (2008). Spatial cognition and the brain. Annals of the New York Academy of Sciences, 1124(1), 77–97. http://doi.org/10.1196/annals.1440.002
 
-**Session 6**
+**Session 5**
 
 Siemann, J., & Petermann, F. (2018). Evaluation of the Triple Code Model of numerical processing: Reviewing past neuroimaging and clinical findings. Research in Developmental Disabilities, 72, 106–117. http://doi.org/10.1016/j.ridd.2017.11.001
 
-**Session 7**
+**Session 6**
 
 Hickok, G., & Poeppel, D. (2015). Neural basis of speech perception. In M. J. Aminoff, F. Boller, & D. F. Swaab (Eds.), The Human Auditory System (Vol. 129, pp. 149–160). Elsevier. http://doi.org/https://doi.org/10.1016/B978-0-444-62630-1.00008-1
 
-**Session 8**
+**Session 7**
 
 Ralph, M. A. L., Jefferies, E., Patterson, K., & Rogers, T. T. (2016). The neural and computational bases of semantic cognition. Nature Reviews Neuroscience, 18(1), 42–55. http://doi.org/10.1038/nrn.2016.150
 
-**Session 9**
+**Session 8**
 
 Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. http://doi.org/10.1016/j.tics.2006.03.007
 
 Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? Science, 358(6362), 486–492. http://doi.org/10.1126/science.aan8871
 
-**Session 10**
+**Session 9**
 
 Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5–51. https://doi.org/10.1177/1529100618772271
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 
-**Session 11**
+**Session 10**
 
 No recommended readings for this session.
