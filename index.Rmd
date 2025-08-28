@@ -33,15 +33,14 @@ Slides will be made available shortly before each session.
 |---| ---------|-------------------------------|--------|
 | 1 | 23.09.2025 | Session 1: Cognitive Psychology |  |
 | 2 | 07.10.2025 | Session 2: What is intelligence? |  |
-| 3 | 14.10.2025 | Session 3: What is intelligence? (continued) |  |
-| 4 | 21.10.2025 | Session 4: Perception | |
-| 5 | 04.10.2025 | Session 5: Spatial cognition | |
-| 6 | 11.11.2025 | Session 6: Numerical cognition | |
-| 7 | 18.11.2025 | Session 7: Language | |
-| 8 | 25.11.2025 | Session 8: Memory | |
-| 9 | 02.12.2025 | Session 9: Consciousness | |
-|10 | 09.12.2025 | Session 10: Applications | |
-|11 | 16.12.2025 | Session 11: Wrap-up and Q&A | |
+| 3 | 14.10.2025 | Session 3: Perception |  |
+| 4 | 21.10.2025 | Session 4: Spatial cognition | |
+| 5 | 04.10.2025 | Session 5: Numerical cognition | |
+| 6 | 11.11.2025 | Session 6: Language | |
+| 7 | 18.11.2025 | Session 7: Memory | |
+| 8 | 25.11.2025 | Session 8: Consciousness | |
+| 9 | 02.12.2025 | Session 9: Applications | |
+|10 | 09.12.2025 | Session 10: Wrap-up and Q&A | |
 :::
 
 # What is this course about?
