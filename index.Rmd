@@ -35,7 +35,7 @@ Slides will be made available shortly before each session.
 | 2 | 07.10.2025 | Session 2: What is intelligence? | [pdf](presentations/KOGPSY_session2.pdf) |
 | 3 | 14.10.2025 | Session 3: Perception | [pdf](presentations/KOGPSY_session3.pdf) |
 | 4 | 21.10.2025 | Session 4: Spatial cognition | [pdf](presentations/KOGPSY_session4.pdf) |
-| 5 | 04.10.2025 | Session 5: Numerical cognition | |
+| 5 | 04.10.2025 | Session 5: Numerical cognition | [pdf](presentations/KOGPSY_session5.pdf) |
 | 6 | 11.11.2025 | Session 6: Language | |
 | 7 | 18.11.2025 | Session 7: Memory | |
 | 8 | 25.11.2025 | Session 8: Consciousness | |
