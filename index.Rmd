@@ -39,7 +39,7 @@ Slides will be made available shortly before each session.
 | 6 | 11.11.2025 | Session 6: Language | [pdf](presentations/KOGPSY_session6.pdf) |
 | 7 | 18.11.2025 | Session 7: Memory | [pdf](presentations/KOGPSY_session7.pdf) |
 | 8 | 25.11.2025 | Session 8: Consciousness | [pdf](presentations/KOGPSY_session8.pdf) |
-| 9 | 02.12.2025 | Session 9: Applications | |
+| 9 | 02.12.2025 | Session 9: Applications | [pdf](presentations/KOGPSY_session9.pdf) |
 |10 | 09.12.2025 | Session 10: Wrap-up and Q&A | |
 :::
 
